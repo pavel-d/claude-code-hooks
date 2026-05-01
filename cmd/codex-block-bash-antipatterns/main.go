@@ -1,4 +1,4 @@
-// block-bash-antipatterns is a Claude Code PreToolUse hook for the Bash tool.
+// codex-block-bash-antipatterns is a Codex PreToolUse hook for the Bash tool.
 package main
 
 import (
